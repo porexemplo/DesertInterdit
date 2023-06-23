@@ -1,10 +1,10 @@
-# DÉSERT INTERDIT
+# Désert Interdit
 
 Désert Interdit est un jeu de société coopératif pour 2 à 5 joueurs, dans lequel vous incarnez des aventuriers perdus dans un désert mystérieux. Votre mission est de trouver les pièces manquantes d'un vaisseau spatial écrasé et de vous enfuir avant que la tempête de sable ne vous submerge. Le jeu est conçu pour les joueurs âgés de 10 ans et plus et dure environ 45 minutes.
 
 <img width="780" alt="Screenshot_2023-04-24_102657" src="https://github.com/redyummybread/DesertInterdit/assets/62790552/1573acd8-2d2a-4f6d-a0cd-0600a7d3b8a3">
 
-## PARTIES TRAITÉES
+## Parties traitées
 
 Le projet a été codé entièrement par nos soins. Nous avons construit les cartes de tempêtes, carte d'équipements, rôle (personnage) du joueur, faire les tuiles et ce readme détail la manière dont on a traité les différents challenges de ce projet.
 
@@ -93,7 +93,7 @@ C'est un package supplémentaire où nous avons chargé les différentes images 
         
 Nous pouvons constater qu'il n'y a pas de communication directe entre le modèle et la vue, mais c'est le controller qui les réunissent et cela créent une harmonie et une fluidité dans le code et dans la visualisation du jeu. La vue ne peut pas modifier le Model et réciproquement du coup ça évite des modifications non contrôlées, mais le controller s'assure que si le model est modifié la vue aussi est modifiée.
  
-# CRÉDITS
+# Crédits
 Désert Interdit a été créé par Matt Leacock et édité par GameWright. Ce jeu numérique Desert Interdit a été conçue par Redwane HAMMAS et Alida NANA SUNJI K.
 La méthode `getImageScaled()` qui réduit la taille (qualité des images) a été publié par Ocracoke sur StackOverFlow.
 Ce Projet a été encadré par M. Fred Gruau.

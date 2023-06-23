@@ -1,0 +1,4 @@
+@export settings
+sable0 .05
+sable1 .17
+player .06

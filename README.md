@@ -2,7 +2,7 @@
 
 Désert Interdit est un jeu de société coopératif pour 2 à 5 joueurs, dans lequel vous incarnez des aventuriers perdus dans un désert mystérieux. Votre mission est de trouver les pièces manquantes d'un vaisseau spatial écrasé et de vous enfuir avant que la tempête de sable ne vous submerge. Le jeu est conçu pour les joueurs âgés de 10 ans et plus et dure environ 45 minutes.
 
-<img width="512" alt="Screenshot_2023-04-24_102657" src="https://github.com/redyummybread/DesertInterdit/assets/62790552/1573acd8-2d2a-4f6d-a0cd-0600a7d3b8a3">
+<img width="780" alt="Screenshot_2023-04-24_102657" src="https://github.com/redyummybread/DesertInterdit/assets/62790552/1573acd8-2d2a-4f6d-a0cd-0600a7d3b8a3">
 
 ## PARTIES TRAITÉES
 
